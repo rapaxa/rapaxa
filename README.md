@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there, I'm Pavlo 👋
+Aspiring Front-End Developer based in Scotland.  
+I enjoy building modern web apps using React, TypeScript, and Redux Toolkit.
 
-<!--
-**rapaxa/rapaxa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧰 Tech Stack:
+- React, Redux, TypeScript
+- HTML, CSS, JavaScript
+- Material UI, Styled Components
+- Git, GitHub, Vite
+- Unit Testing: Vitest
 
-Here are some ideas to get you started:
+## 🚀 Featured Projects:
+🔹 [To-Do List App]  
+A responsive task manager with drag-and-drop, filters, and persistence.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## 📫 Let's connect:
+[linkin:https://www.linkedin.com/in/pavlo-volodchenko-bb74381b1/) • [Email](rapaxa123@gmail.com)
